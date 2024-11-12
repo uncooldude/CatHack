@@ -7,7 +7,7 @@
 
 I am thrilled to announce the release of **CatHack v1.4**! This update brings exciting new features and improvements to enhance your experience. Here's what's new in this version:
 
-- **Universal Remote**: Control any TV in the world with this comprehensive remote control feature
+- **Universal Remote**: Control any TV in the world with this comprehensive remote control feature ⚠️hold the button on the right to exit to the menu⚠️
 - **New Others Menu** with:
   - **Catgotchi**: Your virtual pet that levels up as you use CatHack features
   - **Lucky 7**: A casino-style game to pass the time
